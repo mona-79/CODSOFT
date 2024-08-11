@@ -49,6 +49,3 @@ Submit a pull request.
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Enjoy using the Currency Converter!
-
-You can copy and paste this code directly into your `README.md` file in your project repository, replacing `yourusername` with your actual information.
