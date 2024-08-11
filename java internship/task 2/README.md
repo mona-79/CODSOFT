@@ -24,5 +24,3 @@ Average Percentage: 85.00%
 Grade: A+
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-You can include this code in a file named "README.md" within your project directory to provide information and usage instructions for your Java program.
